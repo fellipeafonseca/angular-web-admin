@@ -1,6 +1,7 @@
 # angular-web-admin
 Projetc Angular Web-Admin
 
+ - Version of Angular Project 10.2.0
 
 ## Extensions of Project
 - ng add @angular/material
